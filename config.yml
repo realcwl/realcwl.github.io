@@ -5,6 +5,7 @@ title: PaperMod
 copyright: "© [PaperMod Contributors](https://github.com/adityatelange/hugo-PaperMod/graphs/contributors)"
 paginate: 5
 theme: ["hugo-PaperMod"]
+publishDir: "docs"
 
 enableInlineShortcodes: true
 enableRobotsTXT: true
