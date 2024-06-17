@@ -2,37 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Weilun&#39;s Homepage</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://realcwl.github.io/posts/</link>
     <description>Recent content in Posts on Weilun&#39;s Homepage</description>
     <image>
       <title>Weilun&#39;s Homepage</title>
-      <url>http://localhost:1313/images/papermod-cover.png</url>
-      <link>http://localhost:1313/images/papermod-cover.png</link>
+      <url>https://realcwl.github.io/images/papermod-cover.png</url>
+      <link>https://realcwl.github.io/images/papermod-cover.png</link>
     </image>
     <generator>Hugo -- 0.127.0</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 15 Jun 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 31 May 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://realcwl.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>What does a bad transfer teach me</title>
-      <link>http://localhost:1313/posts/lesson_i_learned/</link>
-      <pubDate>Sat, 15 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/lesson_i_learned/</guid>
-      <description>A brief recap of my last 6 month.. and what does teach me</description>
-    </item>
-    <item>
-      <title>Code Syntax Guide</title>
-      <link>http://localhost:1313/posts/code_syntax/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/code_syntax/</guid>
-      <description>Sample article showcasing basic code syntax and formatting for HTML elements.</description>
-    </item>
-    <item>
-      <title>Emoji Support</title>
-      <link>http://localhost:1313/posts/emoji-support/</link>
-      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/emoji-support/</guid>
-      <description>Guide to emoji usage in Hugo</description>
+      <title>Some lessons I learned the hard way</title>
+      <link>https://realcwl.github.io/posts/lesson_i_learned/</link>
+      <pubDate>Fri, 31 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://realcwl.github.io/posts/lesson_i_learned/</guid>
+      <description>my thinking over the past 6 months</description>
     </item>
   </channel>
 </rss>
