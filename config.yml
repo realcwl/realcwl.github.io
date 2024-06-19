@@ -145,11 +145,13 @@ params:
   homeInfoParams:
     Title: "Weilun (Warren) Chen's Homepage"
     Content: >
-      👋 Hi visitors, welcome to my homepage!
+      👋 Hi visitors,
+
+      - I'm an engineer.
+
+      - I work on teaching machine to code, in Google Labs.
 
       - I'm passionate about using technology to make the world a better place.
-
-      - I'm currently a Research Engineer at Google Labs, training LLM for better coding ability.
 
       - I'm a dog person 🐶, I have 2 dogs that I took them for hiking.
 
