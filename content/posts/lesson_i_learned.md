@@ -23,9 +23,7 @@ The concept of longtermism embodies various layers of interpretation. In todayâ€
 
 > Good capital is ruthless on profit, and patient on scaling.
 
-To start, the first requirement in my opinion for longtermism is to find what you like and have passion. Until then, you explore aggresively and do a lot of soul searching. For me, using AI to contribute positively to the society is something I'm deeply passionate about.
-
-I first encoutered this quote in one of my favorite author Clayton Christensen's book [^2]. The dichotomy of short term and long term effort, and the dynamic relathionship is greatly summarized in this sentence. Specifically, the longtermism I'm referring to is exactly the one mentioned in this quote, where one should identify opportunities with clear win, and stick to it with great patience.
+I first encoutered this great quote in one of my favorite author Clayton Christensen's book [^2]. The dichotomy of short term and long term effort, and the dynamic relathionship is greatly summarized in this sentence. Specifically, the longtermism I'm referring to is exactly the one mentioned in this quote, where one should identify opportunities which you have great passion ("ruthless on profit"), and stick to it with great patience.
 
 I often find myself thinking "Auh.. I wish I had spent the last year solidify this skill", whether it be exercising, learning a new language, mathmatic skills or writing. Like many others, I often find myself too eager to reap the benefits before properly sowing the seeds. In reality, life is a marathon. Once you know you are heading towards the right direction, it's crucial to grow the necessary skills before scale it up.
 
