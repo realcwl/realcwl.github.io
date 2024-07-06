@@ -8,11 +8,6 @@ math: true
 ShowToc: true
 ---
 
-<!-- KaTeX -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.11.1/dist/katex.min.css" integrity="sha384-zB1R0rpPzHqg7Kpt0Aljp8JPLqbXI3bhnPWROx27a9N0Ll6ZP/+DiW/UqRcLbRjq" crossorigin="anonymous">
-<script defer src="https://cdn.jsdelivr.net/npm/katex@0.11.1/dist/katex.min.js" integrity="sha384-y23I5Q6l+B6vatafAwxRu/0oK/79VlbSz7Q9aiSZUvyWYIYsd+qj+o24G5ZU2zJz" crossorigin="anonymous"></script>
-<script defer src="https://cdn.jsdelivr.net/npm/katex@0.11.1/dist/contrib/auto-render.min.js" integrity="sha384-kWPLUVMOks5AQFrykwIup5lo0m3iMkkHrD0uJ4H5cjeGihAutqP0yW0J6dpFiVkI" crossorigin="anonymous" onload="renderMathInElement(document.body);"></script>
-
 I switched to a new team last year October. The last 6 months have been a challenging and tough period in my life, prompting considerable reading and self-reflection. After a very brief period, I was fortunate to continue work on LLM in a new team in Labs with the help of a good friend. Now as things are finally getting back on track, I'd like to share some valuable lessons that helped me. If you find yourself sitting in front of the computer, bored enough to open this article, you might find these lessons helpful to you as well.
 
 ## Embrace Longtermism
