@@ -8,17 +8,19 @@ math: true
 ShowToc: true
 ---
 
-I switched to a new team last year October. The last 6 months have been a challenging and tough period in my life, prompting considerable reading and self-reflection. After a very brief period, I was fortunate to continue work on LLM in a new team in Labs with the help of a good friend. Now as things are finally getting back on track, I'd like to share some valuable lessons that helped me. If you find yourself sitting in front of the computer, bored enough to open this article, you might find these lessons helpful to you as well.
+The last 6 months have been a challenging and tough period in my life, prompting considerable reading and self-reflection. Now as things are finally getting back on track, I'd like to share some valuable lessons that helped me. If you find yourself sitting in front of the computer, bored enough to open this article, you might find these lessons helpful to you as well.
 
 ## Embrace Longtermism
 
-The concept of longtermism embodies various layers of interpretation. In today’s fast-paced world, where technological advancements progress rapidly, it seems that success stories often revolve around those who capitalize on short-term opportunities to become rich and famous. Pursuing longtermism might appear outdated and irrelevant. However, I maintain that focusing on long-term gains, while disregarding short-term fluctuations, is not only worthwhile but increasingly essential.
+The concept of longtermism embodies various layers of interpretation. It might seem outdated or cliche in a fast-paced world where technological advancements progress rapidly. However, I maintain that focusing on long-term gains, while disregarding short-term fluctuations, is not only worthwhile but increasingly essential.
 
 ### Good capital theory
 
-> Good capital is ruthless on profit, and patient on scaling.
+> Good capital is ruthless for profit, and patient for scaling.
 
-I first encoutered this great quote in one of my favorite author Clayton Christensen's book [^2]. The dichotomy of short term and long term effort, and the dynamic relathionship is greatly summarized in this sentence. Specifically, the longtermism I'm referring to is exactly the one mentioned in this quote, where one should identify opportunities which you have great passion ("ruthless on profit"), and stick to it with great patience.
+I first encoutered this great quote in one of my favorite author Clayton Christensen's book [^2]. The dichotomy of short term and long term effort, and the dynamic relathionship is greatly summarized in this sentence. Specifically, the longtermism I'm referring to is exactly the one mentioned in this quote.
+
+A mindset of "fail fast" should always be embraced, which helps you navigates the uncertainties in today's technological shift, this is the "ruthless for profit" part. However, I think the true difficulty lies in the patiently scaling side, where one can get distracted easily.
 
 I often find myself thinking "Auh.. I wish I had spent the last year solidify this skill", whether it be exercising, learning a new language, mathmatic skills or writing. Like many others, I often find myself too eager to reap the benefits before properly sowing the seeds. In reality, life is a marathon. Once you know you are heading towards the right direction, it's crucial to grow the necessary skills before scale it up.
 
@@ -32,7 +34,7 @@ This is another great summary I read from the famous book "Grit", and also somet
 
 I also find this quote optimistic. When you work hard, and much harder than others, the quadratic multiplier will eventually catch up and let you surpass anyone who is either gifted or privileged.
 
-### Patient
+### Patience
 
 For those who aim high, It seems many are eager to achieve success quickly. I even have friends who made hundreds of millions of dollars in their mid 20s.
 
@@ -42,13 +44,13 @@ I've also come to observe that the astonishing achievements don't just appear ou
 
 ## Money is only a means to an end
 
-In my first few years, I was really desparate to achieve financial security. My mom sold the only appartment to afford my tuition, and the pressure was real that I need to find a way to repay the investment.
+In my first few years, I was really desparate to achieve financial security. The finantial burden on my family is quite real.
 
 However, just a few years after graduation (thanks to Google), I managed to achieve that financial independence. Gradually, I realized that money isn't on top of my list.
 
 I won't deny that it feels great to get a pay raise, or a huge bonus. But even when I do get money, spending it on others - like host a party with my best friends, buying gifts for my parent - brings me more joy than spending them on myself.
 
-My true joy really comes from working on very important things and solving hard challenges whose solutions are beneficial to the society, and with people I deeply love and respect. In that sense, I'm very happy right now to tackle some of the hardest problems with my friends in the new Labs team.
+My true joy really comes from working on very important things and solving hard challenges whose solutions are beneficial to the society, and with people I deeply love and respect. When I'm doing so, the fulfillment from the process is as much as the reward from the outcome. In that sense, I'm very happy right now to tackle some of the hardest problems with my friends in the new Labs team.
 
 ## One last thing... your action defines your value
 
@@ -60,7 +62,9 @@ Some of the middle level managers tried to justify their actions by saying "oh I
 
 Jean-Paul Sartre once said, "In fashioning myself I fashion man[^1]" suggesting that every choice we make sets a moral standard for others. That applies here, it's true that those middle managers can justify their actions (or inaction) with the pretext that it's just temporary. Yet fundamentally, they chose a path where climbing Google's corporate ladder takes precedence over building an impactful product, or being a good person. Essentially, they chose their values through actions.
 
-My takeaway from this experience is that, everyone bears the responsibility to shape the world with their values, and it is your action in daily life does that. It is crucial to act in accordance with your beliefs to lead a coherent life. This, I believe, is an essential expression of a free and independent spirit.
+My takeaway? You should act what you value, and put your moral compass before subordinate goals such as money or power.
+
+I truly believe that everyone bears the responsibility to shape the world with their values, and it is your action in daily life does that. It is crucial to act in accordance with your beliefs to lead a coherent life. Admittedly, doing so will be extremely challenging at times. But in doing so, I believe, is an essential expression of freedom and independent spirit.
 
 [^1]: This is from Jean-Paul Sartre's famous [Existentialism Is a Humanism](https://www.marxists.org/reference/archive/sartre/works/exist/sartre.htm), in which he expound how your choice defines you. A must read that I highly recommend.
 
