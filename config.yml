@@ -100,11 +100,11 @@ params:
       title: View Source on Github
       url: "https://github.com/realcwl"
     - name: X
-      title: Share PaperMod on X/Twitter
+      title: Twitter
       url: "https://x.com/snortydogg"
 
   editPost:
-    URL: "https://github.com/adityatelange/hugo-PaperMod/tree/exampleSite/content"
+    URL: "https://github.com/realcwl/realcwl.github.io/tree/main/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 

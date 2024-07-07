@@ -14,11 +14,11 @@
     <lastBuildDate>Thu, 04 Jul 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>From RLHF to DPO and IPO</title>
+      <title>From RLHF to DPO</title>
       <link>http://localhost:1313/posts/rlhf_to_ipo/</link>
       <pubDate>Thu, 04 Jul 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/rlhf_to_ipo/</guid>
-      <description>How does RLHF works under the hood, and how can we get rid of it? (Or can we?)</description>
+      <description>How does RLHF and DPO works under the hood, and where the limitation is</description>
     </item>
     <item>
       <title>Some lessons I learned the hard way</title>
