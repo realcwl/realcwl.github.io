@@ -149,7 +149,7 @@ $$
 \end{aligned}
 $$
 
-It's easy to see that the above equation is to calculate the cross-entropy between the Elo predicted win rate and the actual observed win rate. Thus, the best solution for equation (2) is the Elo score (or MLE coefficient) we are looking for.
+It's easy to see that the above equation is to calculate the cross-entropy between the Elo predicted win rate and the actual observed win rate. Thus, the best solution for equation (2) is the Elo score (or MLE coefficient) that predicts exactly the observed win rate.
 
 This calculation is redone N times with [bootstrapping](https://en.wikipedia.org/wiki/Bootstrapping_(statistics)) to get confidence interval. N equals 100 in the case of the actual Arena implementation.
 
