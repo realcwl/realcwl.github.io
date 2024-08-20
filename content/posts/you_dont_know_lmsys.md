@@ -1,6 +1,6 @@
 ---
 author: ["Weilun Chen"]
-title: "You don't know Chatbot Arena"
+title: "Chatbot Arena in a nutshell"
 date: "2024-08-07"
 description: "Let's get a bit nerdy on the most trusted LLM leaderboard"
 tags: ["LLM", "Evaluation"]
@@ -10,7 +10,7 @@ ShowToc: true
 
 **Disclaimer**: All of the following content are public information.
 
-## LLM evals are broken
+## Academic Evals are Cracked
 
 It all starts with the question: How do you evaluate the quality of something that's as strong as GPT-4 (or Gemini).
 
