@@ -2,6 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://realcwl.github.io/tags/life/</loc>
+    <lastmod>2024-11-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://realcwl.github.io/posts/</loc>
+    <lastmod>2024-11-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://realcwl.github.io/tags/</loc>
+    <lastmod>2024-11-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://realcwl.github.io/posts/team_of_rivals/</loc>
+    <lastmod>2024-11-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://realcwl.github.io/</loc>
+    <lastmod>2024-11-25T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://realcwl.github.io/posts/you_dont_know_lmsys/</loc>
     <lastmod>2024-08-07T00:00:00+00:00</lastmod>
   </url><url>
@@ -11,23 +26,11 @@
     <loc>https://realcwl.github.io/tags/llm/</loc>
     <lastmod>2024-08-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://realcwl.github.io/posts/</loc>
-    <lastmod>2024-08-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://realcwl.github.io/tags/</loc>
-    <lastmod>2024-08-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://realcwl.github.io/</loc>
-    <lastmod>2024-08-07T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://realcwl.github.io/posts/rlhf_to_ipo/</loc>
     <lastmod>2024-07-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://realcwl.github.io/tags/reinforcement-learning/</loc>
     <lastmod>2024-07-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://realcwl.github.io/tags/life/</loc>
-    <lastmod>2024-05-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://realcwl.github.io/posts/lesson_i_learned/</loc>
     <lastmod>2024-05-31T00:00:00+00:00</lastmod>
