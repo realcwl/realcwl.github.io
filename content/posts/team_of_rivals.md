@@ -2,13 +2,15 @@
 author: ["Weilun Chen"]
 title: "Team of Rivals"
 date: "2024-11-25"
-description: "Reading the Pulitzer winning book Team of Rivals"
+description: "The story of Lincoln, and American civil war"
 tags: ["life"]
 math: true
 ShowToc: true
 ---
 
 I cannot precisely recall what drew me to this tome. Perhaps it was my enduring passion for history, or maybe I was simply trying to understand why Lincoln is consistently ranked as the greatest U.S. president, surpassing even Washington and Roosevelt in historical estimations. Or perhaps, I simply yearned to comprehend what kind of character could lead during a nation's most tumultuous period in a way that has been so universally acclaimed. But as I finished reading today, I discovered that Lincoln's story transcends mere political narrative, and surprisingly, I found myself relating deeply to it. From his humble beginnings as a prairie Illinois lawyer with far less public recognition than contemporaries like William H. Seward, to becoming a figure who transcended U.S. history itself, I came to understand that just as Napoleon embodies the quintessential French ideal, Lincoln represents the very essence of American character.
+
+<img src="/team_of_rivals/cover.jpg" alt="cover" width="400" />
 
 The underdog spirit manifested in Lincoln's life is truly fascinating. Life presented constant hardships throughout both his early years and adulthood. Born into an impoverished family in Kentucky, he was forced to develop a precocious maturity to navigate the austere frontier environment and to cope with the devastating loss of his mother at age nine. These challenging circumstances deprived him of formal educational opportunities that his contemporaries enjoyed. As he entered adult life, Lincoln found himself a small fish in the vast pond of national politics, overshadowed by more privileged and established figures.
 
